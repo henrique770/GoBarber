@@ -2,8 +2,6 @@
   GoBarber Project
 </h1>
 
-[![Gobarber](https://i.ibb.co/m46Nyg3/https-i-ytimg-com-vi-F5o-U5x-x8-Uk-maxresdefault.jpg)](https://www.youtube.com/watch?v=F5oU5x-x8Uk "Gobarber")
-
 ## API installation and execution
 
 1. Clone this repository;
