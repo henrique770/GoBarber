@@ -2,7 +2,7 @@
   GoBarber Project
 </h1>
 
-## API installation and execution
+## API installation
 
 1. Clone this repository;
 2. Enter the folder running `cd backend`;
@@ -13,7 +13,7 @@
 7. Run `yarn sequelize db:migrate` to execute the migrations;
 8. run `yarn dev` to start the server.
 
-## Front end execution
+## Front end
 
 1. Enter the folder running `cd frontend`;
 2. run `yarn` or `npm install` to install the dependencies;
